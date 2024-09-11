@@ -1,6 +1,6 @@
 # Winning the Space Race with Data Science
 
-This repository contains the fininal project for the IBM Data Science Capstone, part of the IBM Data Science Professional Certificate. The project focuses on analyzing SpaceX Falcon 9 launches using data science methodologies, with the goal of predicting launch outcomes based on various factors.
+This repository contains the final project for the IBM Data Science Capstone, part of the IBM Data Science Professional Certificate. The project focuses on analyzing SpaceX Falcon 9 launches using data science methodologies, with the goal of predicting launch outcomes based on various factors.
 
 ## Project Overview
 
